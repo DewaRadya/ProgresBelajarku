@@ -1,5 +1,5 @@
 # ProgresBelajarku
-progres belajar dicoding
+Progres belajar dicoding
 
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
